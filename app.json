@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "Carteirinha UFSCar",
-    "slug": "carteirinha-online-ufscar",
+    "slug": "carteirinha-digital-ufscar",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/ufscar_logo.png",
+    "icon": "./assets/ufscar_logo1.png",
     "splash": {
       "image": "./assets/ufscar_logo.png",
       "resizeMode": "contain",
@@ -21,10 +21,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/ufscar_logo1.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.matheusranzani.carteirinhaonlineufscar"
+      "package": "com.matheusranzani.carteirinhadigitalufscar"
     },
     "web": {
       "favicon": "./assets/favicon.png"

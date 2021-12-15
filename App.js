@@ -8,7 +8,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.headerText}>Carteirinha online UFSCar</Text>
+        <Text style={styles.headerText}>Carteirinha Digital UFSCar</Text>
       </View>
 
       <View style={styles.containerLogo}>
@@ -88,6 +88,7 @@ const styles = StyleSheet.create({
     flex: 1,
     height: '100%',
     resizeMode: 'contain',
+    borderRadius: 200
   },
   
   logo: {
